@@ -1,0 +1,19 @@
+name: AX
+version: 1.0
+author: Cameron
+main: us.cameron.xraysuspicion.Main
+commands:
+  ax:
+    description: test
+    usage: /ax
+  ax clearlogs:
+    description: Clear all logs
+    usage: Syntax error! Type /ax clearlogs
+
+  ax view:
+    description: View all logs
+    usage: Syntax error! Type /ax view
+
+  ax players:
+    description: list all players
+    usage: Syntax error! Type /ax players
